@@ -1,0 +1,6 @@
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\bin\Debug\ManagerEscuela.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\bin\Debug\ManagerEscuela.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\obj\Debug\ManagerEscuela.csprojAssemblyReference.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\obj\Debug\ManagerEscuela.csproj.CoreCompileInputs.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\obj\Debug\ManagerEscuela.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManagerEscuela\obj\Debug\ManagerEscuela.pdb

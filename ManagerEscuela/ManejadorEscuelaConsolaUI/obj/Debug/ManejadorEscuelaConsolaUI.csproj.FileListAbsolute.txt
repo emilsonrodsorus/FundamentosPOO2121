@@ -1,0 +1,10 @@
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\ManejadorEscuelaConsolaUI.exe.config
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\ManejadorEscuelaConsolaUI.exe
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\ManejadorEscuelaConsolaUI.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\ManagerEscuela.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\ManagerEscuela.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.csprojAssemblyReference.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.csproj.CoreCompileInputs.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.csproj.CopyComplete
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.exe
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.pdb
