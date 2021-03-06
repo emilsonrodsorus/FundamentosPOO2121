@@ -16,16 +16,23 @@ namespace ManejadorEscuelaFormUI
     {
         Escuela managerEscuela;
         EstudianteForm estFormulario;
+        ProfesorForm profFormulario;
         public Form1()
         {
             InitializeComponent();
             managerEscuela = new Escuela();
             estFormulario = new EstudianteForm(managerEscuela.ManagerEst);
+            profFormulario = new ProfesorForm(managerEscuela.ManagerProf);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             estFormulario.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            profFormulario.Show();
         }
     }
 }

@@ -19,5 +19,6 @@ namespace ManagerEscuela.Managers
             managerAdministrativos = new ManagerAdministrativos(); 
         }
         public ManagerEstudiantes ManagerEst { get { return managerEstudiantes; } }
+        public ManagerProfesores ManagerProf { get { return managerProfesores; } }
     }
 }

@@ -61,6 +61,12 @@
     <Compile Include="Formularios\EstudianteForm.Designer.cs">
       <DependentUpon>EstudianteForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\ProfesorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\ProfesorForm.Designer.cs">
+      <DependentUpon>ProfesorForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -68,6 +74,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\EstudianteForm.resx">
       <DependentUpon>EstudianteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\ProfesorForm.resx">
+      <DependentUpon>ProfesorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

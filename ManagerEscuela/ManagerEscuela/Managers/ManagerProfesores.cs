@@ -15,5 +15,12 @@ namespace ManagerEscuela.Managers
         {
             listaProfesores = new List<Profesor>();
         }
+
+        public List<Profesor> ListaProfesor { get { return listaProfesores; } }
+
+        public void AgregarProfesor(string nombre, string apellido, string ci, int codigo, string materia)
+        {
+            listaProfesores.Add(new Profesor(nombre, apellido, ci, codigo, materia));
+        }
     }
 }
