@@ -20,5 +20,11 @@ namespace ManagerEscuela.Models.PadreModels
         public string Apellido { get; set; }
         public string CI { get; set; }
         public DateTime AnioNacimiento { get; set; }
+
+        // Sobreescribir no es lo mismo que sobrecarga
+        public override string ToString()
+        {
+            return string.Format("{0} -> {1} {2}", CI, Nombre, Apellido);
+        }
     }
 }

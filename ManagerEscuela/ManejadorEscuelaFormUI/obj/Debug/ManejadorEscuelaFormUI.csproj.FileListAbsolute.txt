@@ -1,0 +1,14 @@
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\bin\Debug\ManejadorEscuelaFormUI.exe.config
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\bin\Debug\ManejadorEscuelaFormUI.exe
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\bin\Debug\ManejadorEscuelaFormUI.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.csprojAssemblyReference.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Properties.Resources.resources
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.csproj.GenerateResource.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.csproj.CoreCompileInputs.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.exe
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\bin\Debug\ManagerEscuela.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\bin\Debug\ManagerEscuela.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Form1.resources
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Formularios.EstudianteForm.resources
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.csproj.CopyComplete
