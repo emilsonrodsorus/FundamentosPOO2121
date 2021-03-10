@@ -46,6 +46,8 @@
     <Compile Include="Managers\ManagerEstudiantes.cs" />
     <Compile Include="Managers\ManagerProfesores.cs" />
     <Compile Include="Models\BasicModels\Administrativo.cs" />
+    <Compile Include="Models\BasicModels\AdministrativoConsultor.cs" />
+    <Compile Include="Models\BasicModels\AdministrativoPlanta.cs" />
     <Compile Include="Models\BasicModels\Estudiante.cs" />
     <Compile Include="Models\BasicModels\Profesor.cs" />
     <Compile Include="Models\PadreModels\Persona.cs" />

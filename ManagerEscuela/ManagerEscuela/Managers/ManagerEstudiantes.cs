@@ -1,4 +1,5 @@
 ﻿using ManagerEscuela.Models.BasicModels;
+using ManagerEscuela.Models.PadreModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +10,14 @@ namespace ManagerEscuela.Managers
 {
     public class ManagerEstudiantes
     {
-        List<Estudiante> listaEstudiantes;
+        List<Persona> listaEstudiantes;
 
         public ManagerEstudiantes()
         {
-            listaEstudiantes = new List<Estudiante>();
+            listaEstudiantes = new List<Persona>();
         }
 
-        public List<Estudiante> ListaEstudiante { get { return listaEstudiantes; } }
+        public List<Persona> ListaEstudiante { get { return listaEstudiantes; } }
 
         public void AgregarEstudiante(string nombre, string apellido, string ci, int codigo)
         {

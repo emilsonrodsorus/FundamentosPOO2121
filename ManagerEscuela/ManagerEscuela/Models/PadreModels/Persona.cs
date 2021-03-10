@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ManagerEscuela.Models.PadreModels
 {
-    public class Persona
+    // al ser una clase abstracta no se pueden instanciar objetos
+    public abstract class Persona
     {
+        internal string prefijoCodigo;
 
         public Persona(string nombre, string apellido, string ci)
         {
@@ -24,7 +26,11 @@ namespace ManagerEscuela.Models.PadreModels
         // Sobreescribir no es lo mismo que sobrecarga
         public override string ToString()
         {
-            return string.Format("{0} -> {1} {2}", CI, Nombre, Apellido);
+            return string.Format("{0} -> {1} {2}", FormatearCodigo(), Nombre, Apellido);
         }
+
+        // esta funcion abstracta se hereda a todas las clases hijas pero cada clase hija
+        // la implementa segun su necesidad
+        abstract public string FormatearCodigo();
     }
 }

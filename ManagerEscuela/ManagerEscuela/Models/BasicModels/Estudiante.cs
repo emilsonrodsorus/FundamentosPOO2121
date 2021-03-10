@@ -14,8 +14,14 @@ namespace ManagerEscuela.Models.BasicModels
             : base(nombre, apellido, ci)
         {
             CodigoEstudiante = codigo;
+            prefijoCodigo = "EST";
         }
 
         public int CodigoEstudiante { get; set; }
+
+        public override string FormatearCodigo()
+        {
+            return string.Format("{0}-{1}", prefijoCodigo, CodigoEstudiante);
+        }
     }
 }
