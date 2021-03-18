@@ -11,14 +11,18 @@ namespace ManagerEscuela.Managers
         private ManagerEstudiantes managerEstudiantes;
         private ManagerProfesores managerProfesores;
         private ManagerAdministrativos managerAdministrativos;
+        private ManagerPersonas managerPersonas;
 
         public Escuela()
         {
             managerEstudiantes = new ManagerEstudiantes();
             managerProfesores = new ManagerProfesores();
-            managerAdministrativos = new ManagerAdministrativos(); 
+            managerAdministrativos = new ManagerAdministrativos();
+            managerPersonas = new ManagerPersonas();
         }
         public ManagerEstudiantes ManagerEst { get { return managerEstudiantes; } }
         public ManagerProfesores ManagerProf { get { return managerProfesores; } }
+
+        public ManagerPersonas ManagerPersonas { get { return managerPersonas; } }
     }
 }

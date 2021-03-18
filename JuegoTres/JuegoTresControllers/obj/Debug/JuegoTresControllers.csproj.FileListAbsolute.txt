@@ -1,0 +1,6 @@
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\bin\Debug\JuegoTresControllers.dll
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\bin\Debug\JuegoTresControllers.pdb
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\obj\Debug\JuegoTresControllers.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\obj\Debug\JuegoTresControllers.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\obj\Debug\JuegoTresControllers.dll
+C:\Users\emils\source\repos\JuegoTres\JuegoTresControllers\obj\Debug\JuegoTresControllers.pdb

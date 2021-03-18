@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoTres", "JuegoTres\JuegoTres.csproj", "{D275A17C-80ED-4757-A51B-264678FE9D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoTresControllers", "JuegoTresControllers\JuegoTresControllers.csproj", "{9F44D3CF-7D9B-4DAD-AA46-3D8F1D5A4213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D275A17C-80ED-4757-A51B-264678FE9D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D275A17C-80ED-4757-A51B-264678FE9D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D275A17C-80ED-4757-A51B-264678FE9D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D275A17C-80ED-4757-A51B-264678FE9D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F44D3CF-7D9B-4DAD-AA46-3D8F1D5A4213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F44D3CF-7D9B-4DAD-AA46-3D8F1D5A4213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F44D3CF-7D9B-4DAD-AA46-3D8F1D5A4213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F44D3CF-7D9B-4DAD-AA46-3D8F1D5A4213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D0FF51-B33D-42D4-8E57-14AC2E71AE79}
+	EndGlobalSection
+EndGlobal

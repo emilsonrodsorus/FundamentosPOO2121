@@ -17,12 +17,14 @@ namespace ManejadorEscuelaFormUI
         Escuela managerEscuela;
         EstudianteForm estFormulario;
         ProfesorForm profFormulario;
+        FormPersona formPersona;
         public Form1()
         {
             InitializeComponent();
             managerEscuela = new Escuela();
             estFormulario = new EstudianteForm(managerEscuela.ManagerEst);
             profFormulario = new ProfesorForm(managerEscuela.ManagerProf);
+            formPersona = new FormPersona(managerEscuela.ManagerPersonas, new ManagerFiltros());
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -33,6 +35,21 @@ namespace ManejadorEscuelaFormUI
         private void button2_Click(object sender, EventArgs e)
         {
             profFormulario.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            formPersona.Show();
+        }
+
+        private void MostrarMensage(object sender, EventArgs e)
+        {
+            MessageBox.Show("Lanzando un evento");
         }
     }
 }

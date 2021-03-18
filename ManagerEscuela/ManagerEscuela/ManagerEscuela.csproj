@@ -41,10 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Filters\FilterByName.cs" />
+    <Compile Include="Filters\FilterByType.cs" />
+    <Compile Include="Interface\IFilter.cs" />
     <Compile Include="Managers\Escuela.cs" />
     <Compile Include="Managers\ManagerAdministrativos.cs" />
     <Compile Include="Managers\ManagerEstudiantes.cs" />
+    <Compile Include="Managers\ManagerFiltros.cs" />
     <Compile Include="Managers\ManagerProfesores.cs" />
+    <Compile Include="Managers\ManagerPersonas.cs" />
     <Compile Include="Models\BasicModels\Administrativo.cs" />
     <Compile Include="Models\BasicModels\AdministrativoConsultor.cs" />
     <Compile Include="Models\BasicModels\AdministrativoPlanta.cs" />

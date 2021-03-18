@@ -20,7 +20,8 @@ namespace ManagerEscuela.Models.BasicModels
 
         public override string FormatearCodigo()
         {
-            return string.Format("{0} - {1}", "Consultor", base.FormatearCodigo());
+            return string.Format("{0} - {1} fecha salida {2}",
+                "Consultor", base.FormatearCodigo(), FechaFin.ToString());
         }
     }
 }

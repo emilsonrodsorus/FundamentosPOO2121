@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FigurasGeometricas">
+      <HintPath>..\FigurasGeometricas\bin\Debug\FigurasGeometricas.dll</HintPath>
+    </Reference>
     <Reference Include="ManagerEscuela">
       <HintPath>..\ManagerEscuela\bin\Debug\ManagerEscuela.dll</HintPath>
     </Reference>

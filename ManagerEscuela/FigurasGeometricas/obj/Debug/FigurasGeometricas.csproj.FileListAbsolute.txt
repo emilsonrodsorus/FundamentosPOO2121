@@ -1,0 +1,6 @@
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\bin\Debug\FigurasGeometricas.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\obj\Debug\FigurasGeometricas.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

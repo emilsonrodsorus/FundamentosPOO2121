@@ -13,3 +13,4 @@ D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Formularios.EstudianteForm.resources
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.csproj.CopyComplete
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Formularios.ProfesorForm.resources
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaFormUI\obj\Debug\ManejadorEscuelaFormUI.Formularios.FormPersona.resources

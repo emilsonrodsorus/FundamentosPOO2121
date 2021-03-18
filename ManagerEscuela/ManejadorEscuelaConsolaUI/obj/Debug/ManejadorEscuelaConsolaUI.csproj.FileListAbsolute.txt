@@ -8,3 +8,5 @@ D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\De
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.csproj.CopyComplete
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.exe
 D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\obj\Debug\ManejadorEscuelaConsolaUI.pdb
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\FigurasGeometricas.dll
+D:\Codigo2021\FundamentosPOO2121\ManagerEscuela\ManejadorEscuelaConsolaUI\bin\Debug\FigurasGeometricas.pdb

@@ -1,0 +1,10 @@
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\obj\Debug\JuegoTres.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\obj\Debug\JuegoTres.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\bin\Debug\JuegoTres.exe.config
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\bin\Debug\JuegoTres.exe
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\bin\Debug\JuegoTres.pdb
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\bin\Debug\JuegoTresControllers.dll
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\bin\Debug\JuegoTresControllers.pdb
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\obj\Debug\JuegoTres.csproj.CopyComplete
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\obj\Debug\JuegoTres.exe
+C:\Users\emils\source\repos\JuegoTres\JuegoTres\obj\Debug\JuegoTres.pdb
